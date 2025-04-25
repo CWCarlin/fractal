@@ -15,6 +15,7 @@ set(CMAKE_MESSAGE_LOG_LEVEL WARNING)
 
 find_package(Vulkan REQUIRED)
 
+add_subdirectory(fractal)
 add_subdirectory(packages)
 add_subdirectory(test)
 
