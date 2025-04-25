@@ -1,0 +1,9 @@
+[submodule "packages/SDL3"]
+	path = packages/SDL3
+	url = https://github.com/libsdl-org/SDL
+[submodule "packages/Catch2"]
+	path = packages/Catch2
+	url = https://github.com/catchorg/Catch2
+[submodule "packages/SPIRV-Reflect"]
+	path = packages/SPIRV-Reflect
+	url = https://github.com/KhronosGroup/SPIRV-Reflect

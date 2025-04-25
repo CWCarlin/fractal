@@ -1,0 +1,23 @@
+ColumnLimit: 150
+
+Standard: Latest
+
+UseTab: Always
+IndentWidth: 2
+TabWidth: 2
+
+BasedOnStyle: Google
+
+PointerAlignment: Left
+
+SortIncludes: true
+
+AlignConsecutiveAssignments: true
+AlignConsecutiveMacros: true
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortBlocksOnASingleLine: false
+BreakBeforeTernaryOperators: true
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+IndentCaseLabels: true
+AllowShortEnumsOnASingleLine: false

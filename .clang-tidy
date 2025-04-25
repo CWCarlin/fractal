@@ -1,0 +1,16 @@
+WarningsAsErrors: "*"
+
+Checks:>-*,
+bugprone-*,
+google-*,
+misc-*,
+performance-*,
+portability-*,
+readability-*,
+llvm-*,
+
+-readability-identifier-length,
+-bugprone-easily-swappable-parameters,
+-readability-magic-numbers,
+-misc-non-private-member-variables-in-classes,
+-google-build-using-namespace,
